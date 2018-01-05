@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/wangwei/Desktop/DoubleListViewLinkage-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/Users/wangwei/Desktop/DoubleListViewLinkage-master/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.1_19690ef171230282c332e4def0b1d78649277c09.jar" />
+    </item>
+    <item
+        jar="/Users/wangwei/Desktop/DoubleListViewLinkage-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Users/wangwei/Desktop/DoubleListViewLinkage-master/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1_3fab8975ec900e5b6c78d99700e0b2118903f9eb.jar" />
+    </item>
+    <item
+        jar="/Users/wangwei/Desktop/DoubleListViewLinkage-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Users/wangwei/Desktop/DoubleListViewLinkage-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.1_652d196178ae30c090d33579f981452257f9e6b9.jar" />
+    </item>
+    <item
+        jar="/Users/wangwei/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/Users/wangwei/Desktop/DoubleListViewLinkage-master/app/build/intermediates/pre-dexed/debug/butterknife-7.0.1_06e15ab1b7e43e2f269a9ea21bf5f53af6268e1a.jar" />
+    </item>
+    <item
+        jar="/Users/wangwei/Desktop/DoubleListViewLinkage-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/Users/wangwei/Desktop/DoubleListViewLinkage-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.1_d01a8ae417fcf67d133bfb598adc965f96badc62.jar" />
+    </item>
+    <item
+        jar="/Users/wangwei/Desktop/DoubleListViewLinkage-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/Users/wangwei/Desktop/DoubleListViewLinkage-master/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.1_92a47694d7d97aff9972408e0c518cf314879092.jar" />
+    </item>
+    <item
+        jar="/Users/wangwei/AndroidTool/SDK/Androidsdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/Users/wangwei/Desktop/DoubleListViewLinkage-master/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1_279b19b16eb8872d56171365f6d2ad829933393e.jar" />
+    </item>
+
+</items>
